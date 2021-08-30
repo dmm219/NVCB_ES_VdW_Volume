@@ -1,4 +1,4 @@
-# NVCB_ES_VdW_Volume_SI
+# NVCB_ES_VdW_Volume
 A repository containing the data, inputs, and geomtries in the paper entitled, "".
 
 See the README in the each directory for details on the directory tree, as well as the content they contain.
