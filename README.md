@@ -1,5 +1,5 @@
 # NVCB_ES_VdW_Volume
-A repository containing the data, inputs, and geomtries in the paper entitled, "".
+A repository containing the data, inputs, and geomtries in the IOP Electronic Structure Van der Waals Focus Issue paper entitled, "Progress Towards a One-Electron Model for the Non-valence Correlation-bound Anions of Polycyclic Aromatic Hydrocarbons".
 
 See the README in the each directory for details on the directory tree, as well as the content they contain.
 
