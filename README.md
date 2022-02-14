@@ -9,7 +9,6 @@ Contains tabulated data for:
 * Polarization potentials
 * 1D potential slices of the excess electron-molecule interaction in PISCES
 * Electron binding energy from the charge scaled coronene calculations
-* The basis used in the charge-scaled coronene calculations
 
 ## geom 
 Contains the PAH geometries used throughout the paper. 
